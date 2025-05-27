@@ -81,7 +81,6 @@ Proyecto colaborativo en desarrollo para la gestión integral de productos, alma
 - 📦 Desarrollo de APIs y microservicios  
 - 🧪 Pruebas automatizadas y mejora continua  
 - 🤖 Automatización de tareas repetitivas con scripts y herramientas  
-- 🧠 Interés por inteligencia artificial y machine learning  
 - 🎮 Videojuegos como fuente de inspiración lógica y creativa  
 
 ---
