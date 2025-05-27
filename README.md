@@ -72,11 +72,16 @@ Proyecto colaborativo en desarrollo para la gestión integral de productos, alma
 
 ---
 
-## 🎯 Intereses personales
+## 🎯 Intereses Personales
 
 - 💻 Desarrollo de software  
-- 🤖 Aprendizaje automático  
-- 🌍 Cultura open source  
-- 🎮 Juegos y tecnología  
+- 🔙 Enfocarme profesionalmente en el desarrollo backend  
+- 📈 Aprender sobre ciencia de datos y automatización de procesos  
+- 🚀 Explorar nuevas tecnologías y buenas prácticas de desarrollo  
+- 📦 Desarrollo de APIs y microservicios  
+- 🧪 Pruebas automatizadas y mejora continua
 
 ---
+## 🌱 Intereses de crecimiento y comunidad
+- 📚 Compartir conocimientos y escribir artículos técnicos
+--- 
