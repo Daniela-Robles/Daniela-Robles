@@ -1,66 +1,80 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
-<p align="center">
-  👨‍💻 Desarrollador Full Stack | 🛠️ Apasionado por la tecnología | 🌱 Siempre aprendiendo
-</p>
+# 👋 ¡Hola, soy Daniela Robles!
 
 ---
 
-## 🧑‍💼 Sobre mí
+## 👩‍💻 Sobre mí
 
-🎓 Soy un desarrollador con experiencia en desarrollo web y software.  
-💡 Me encanta crear soluciones que impacten positivamente a las personas.  
-🔍 Busco oportunidades para seguir creciendo profesionalmente en tecnología.  
+🎓 Estudiante de Ingeniería de Software, con experiencia en proyectos fullstack y backend, aplicando tecnologías como **Python**, **Django**, **MySQL**, **JavaScript**, **HTML**, **CSS** y **Docker**.
+
+🚀 Me apasiona aprender continuamente, escribir código limpio y construir soluciones funcionales, escalables y bien diseñadas.
+
+📚 Actualmente profundizo en buenas prácticas de desarrollo, patrones de diseño, pruebas automatizadas y despliegue con Docker.
+
+🎯 Mi objetivo es seguir creciendo profesionalmente, colaborar en proyectos interesantes y contribuir a la comunidad open source.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### 🔙 Backend  
+🐍 Python &nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+🌐 Django &nbsp;&nbsp; ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+⚙️ .NET &nbsp;&nbsp; ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
+🐬 MySQL &nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+### 🌐 Frontend  
+📄 HTML5 &nbsp;&nbsp; ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+🎨 CSS3 &nbsp;&nbsp; ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+⚡ JavaScript &nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+### ⚙️ DevOps / Herramientas  
+🐳 Docker &nbsp;&nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+🛠️ Portainer &nbsp;&nbsp; ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)  
+🔧 Git &nbsp;&nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+🐱 GitHub &nbsp;&nbsp; ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+### 🖥️ IDEs y otros  
+💻 Visual Studio &nbsp;&nbsp; ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
+📊 Microsoft Office &nbsp;&nbsp; ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)  
+📈 Excel &nbsp;&nbsp; ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
 ---
 
-## 📂 Proyectos Destacados
+## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| **Sistema de Gestión de Inventario** | App web para gestionar productos, reportes y solicitudes. | Django, JavaScript, MySQL |
-| **Red Social Básica** | CRUD de usuarios y publicaciones usando REST API. | Spring Boot, JPA, MySQL |
-| **Clasificador de Correos SPAM** | Uso de PNL y ADALINE/Perceptrón para detectar SPAM. | Python, Scikit-learn |
+### 🧾 Sistema de Gestión de Inventario  
+Proyecto colaborativo en desarrollo, orientado a la gestión integral de productos, almacenes y solicitudes, con funciones como generación de reportes, escaneo QR, autenticación y control de acceso.
 
-🔗 Puedes ver más en mis [repositorios](https://github.com/tuusuario?tab=repositories).
+**Tecnologías:**  
+🐍 Python &nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+🌐 Django &nbsp;&nbsp; ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+🐬 MySQL &nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+🐳 Docker &nbsp;&nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+🛠️ Portainer &nbsp;&nbsp; ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)  
 
----
+🔗 **Repositorio:** [Proyecto_Almacen](https://github.com/Yas-Mtz/Proyecto_Almacen)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight" width="48%" />
-</p>
 
 ---
 
-## 🗣️ Idiomas
+## 🌍 Idiomas
 
-- Español (nativo) 🇲🇽  
-- Inglés (intermedio-avanzado) 🇺🇸  
+- Inglés — Lectura de Textos
+
+---
+## 🎓 Certificaciones
+
+- 🐍 Python (Curso certificado)  
+- 📋 Gestión de Proyectos y Fundamentos de Metodología Agile  (Curso certificado)  
+- 📊 Introducción a la Ciencia de Datos (Curso certificado)   
 
 ---
 
-## 📫 Contacto
+## 🎯 Intereses personales
 
-- ✉️ Email: tu.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 🖥️ Portafolio: [tuportafolio.com](https://tuportafolio.com)  
+- 💻 Desarrollo de software  
+- 🤖 Aprendizaje automático  
+- 🌍 Cultura open source  
+- 🎮 Juegos y tecnología  
 
 ---
-
-<p align="center">Gracias por visitar mi perfil 🙌</p>
