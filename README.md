@@ -79,9 +79,15 @@ Proyecto colaborativo en desarrollo para la gestión integral de productos, alma
 - 📈 Aprender sobre ciencia de datos y automatización de procesos  
 - 🚀 Explorar nuevas tecnologías y buenas prácticas de desarrollo  
 - 📦 Desarrollo de APIs y microservicios  
-- 🧪 Pruebas automatizadas y mejora continua
+- 🧪 Pruebas automatizadas y mejora continua  
+- 🤖 Automatización de tareas repetitivas con scripts y herramientas  
+- 🧠 Interés por inteligencia artificial y machine learning  
+- 🎮 Videojuegos como fuente de inspiración lógica y creativa  
 
 ---
+
 ## 🌱 Intereses de crecimiento y comunidad
-- 📚 Compartir conocimientos y escribir artículos técnicos
---- 
+
+- 📚 Compartir conocimientos y escribir artículos técnicos  
+- 🧑‍🏫 Participar en comunidades tecnológicas  
+- 🌟 Desarrollar una carrera profesional sólida
